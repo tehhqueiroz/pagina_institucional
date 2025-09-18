@@ -151,7 +151,7 @@ a:hover{
 }
 
 .imagem-destaque img{
-  border-radius: 16px;
+  border-radius: 12px;
 }
 
 .acoes-destaque{
@@ -413,3 +413,4 @@ a:hover{
     grid-template-columns: 1fr;
   }
 }
+
